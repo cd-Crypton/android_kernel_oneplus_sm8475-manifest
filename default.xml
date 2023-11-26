@@ -4,7 +4,7 @@
   <remote name="github" fetch="https://github.com/" />
       
   <project path="build" remote="aosp" name="kernel/build" revision="master-kernel-build-2021" />
-  <project path="sm8475" remote="github" name="h0we/android_kernel_oneplus_sm8475" revision="A13" />
+  <project path="sm8475" remote="github" name="h0we/android_kernel_oneplus_sm8475" revision="13" />
   <project path="prebuilts-master/clang/host/linux-x86" remote="aosp" name="platform/prebuilts/clang/host/linux-x86" clone-depth="1" revision="master-kernel-build-2021" />
   <project path="prebuilts/gas/linux-x86" remote="aosp" name="platform/prebuilts/gas/linux-x86" clone-depth="1" revision="master-kernel-build-2021" />
   <project path="prebuilts/build-tools" remote="aosp" name="platform/prebuilts/build-tools" clone-depth="1" revision="master-kernel-build-2021" />
